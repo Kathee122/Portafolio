@@ -1,0 +1,12 @@
+body {
+    background-color: black; /* Cambia el último valor (0.8) para ajustar la transparencia */
+}
+
+.portfolio-container {
+    color: white; /* Cambia el último valor (0.8) para ajustar la transparencia */
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+
